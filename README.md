@@ -9,6 +9,7 @@ TECHNOLOGY USED
   * Pygame
   
   * MySQL connector
+
 FEATURES
 
 1)User Authentication and Authorization: The program requires users to log in, and it checks the credentials against a MySQL database. Different user roles, such as "admin" and "user," have different levels of access to features.
