@@ -1,14 +1,20 @@
+# Music-Player
 OVERVIEW
 
 The music player code creates a robust and user-friendly application with a graphical interface using Tkinter. Users can log in, access a playlist of songs, and control audio playback with options such as play, stop, pause, resume, next, and previous. The code integrates seamlessly with a MySQL database to manage user credentials and song details. It provides an intuitive interface for adding and deleting songs, while users with an "admin" role have access to additional features such as viewing user lists. The music player utilizes the pygame library for audio playback and leverages Tkinter widgets for a visually appealing design. With a focus on user interaction and feedback, the code ensures a seamless and enjoyable experience for music enthusiasts, offering a personalized playlist management system through a well-organized and modular structure.
 
+
+
 TECHNOLOGY USED
 
-  * Tkinter
-  
-  * Pygame
-  
-  * MySQL connector
+      * Tkinter
+      
+      * Pygame
+      
+      * MySQL connector
+
+
+
 
 FEATURES
 
